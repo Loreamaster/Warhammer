@@ -2,7 +2,7 @@ import json
 
 print("hello world\n")
 
-f = open('venv/leaders.json')
+f = open('provinceList.json')
 
 data = json.load(f)
 

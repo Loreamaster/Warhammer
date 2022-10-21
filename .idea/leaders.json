@@ -1,0 +1,20 @@
+{
+  "leaders": [
+    {
+      "leader": "Kairos Fateweaver",
+      "faction": "Oracles of Tzeentch",
+      "svictory": {"destroy": "Zlatlan", "destroy": "Order of Loremasters", "destroy": "Last Defenders", "destroy": "Fortress of Dawn"},
+      "lvictory": {"destroy": "Poxmakers of Nurgle", "destroy": "Bubonic Swarm"}
+    },
+    {
+      "leader": "Archaon the Everchosen",
+      "faction": "Warhost of the Apocalypse",
+      "svictory": {"destroy": "The Ice Court", "control": "The Blood Marshes", "control": "The Skull Road"},
+      "lvictory": {"controlmany": ["Ancient City of Quintex", "Altar of the Crimson Harvest", "Black Rock", "Black Fortress", "Brass Keep", "Bloodwind Keep", "Daemon's Gate", "Dagrak's End", "Doomkeep",
+        "Fortress of the Damned", "Karak Dum",  "Karak Vlag", "Konquata",  "Middenheim",  "Monolith of Borkill the Bloody-Handed", "Nuln",  "Okkam's Forever Maze",  "Praag",  "Red Fortress",  "Tower of Gorgoth",
+        "Zanbaijin",  "The Challenge Stone",  "The Crystal Spires",  "The Godless Crater",  "The Forbidden Citadel",  "The Frozen City",  "The Howling Citadel",  "The Lost Palace",  "The Monolith of Katam",
+        "The Palace of Ruin",  "The Silvered Tower of Sorcerers",  "The Tower of Khrakk",  "The Twisted Towers",  "The Writhing Fortress"],
+    "number":  "13"}
+    }
+  ]
+}

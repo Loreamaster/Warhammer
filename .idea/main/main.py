@@ -11,7 +11,8 @@ data = json.load(f)
 for i in data['Province List']:
     print(i['Province'])
     for j in i['Settlements']:
-        print(j)#
+        print(j)
+    print('\n')
 
 
 #for i in data['leaders']:

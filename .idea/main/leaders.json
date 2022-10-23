@@ -1,6 +1,66 @@
 {
   "leaders": [
     {
+	 "leader": "Khazrak the One-Eye",
+	 "faction": "Warherd of the One-Eye",
+	 "svictory": {"destroy": "Middenland"},
+	 "lvictory": {"destroy": "Reikland", "destroy": "Couronne", "destroy": "Averland", "destroy": "Hochland", "destroy": "Middenland", "destroy": "Nordland", "destroy": "Ostland", "destroy": "Ostermark", "destroy": "Stirland", "destroy": "Talabecland", "destroy": "Wissenland", "razecontrol": "The Oak of Ages"}
+    },
+	{
+	 "leader": "Malagor the Dark Omen",
+	 "faction": "Harbinger of Disaster",
+	 "svictory": {},
+	 "lvictory": {"destroy": "Reikland", "destroy": "Couronne", "destroy": "Averland", "destroy": "Hochland", "destroy": "Middenland", "destroy": "Nordland", "destroy": "Ostland", "destroy": "Ostermark", "destroy": "Stirland", "destroy": "Talabecland", "destroy": "Wissenland", "razecontrol": "The Oak of Ages"}
+    },
+	{
+	 "leader": "Morghur the Shadowgave",
+	 "faction": "Warherd of the Shadowgave",
+	 "svictory": {"destroy": "Estalia", "destroy": "Carcassone", "destroy": "Talsyn"},
+	 "lvictory": {"destroy": "Reikland", "destroy": "Couronne", "destroy": "Averland", "destroy": "Hochland", "destroy": "Middenland", "destroy": "Nordland", "destroy": "Ostland", "destroy": "Ostermark", "destroy": "Stirland", "destroy": "Talabecland", "destroy": "Wissenland", "razecontrol": "The Oak of Ages"}
+    },
+	{
+	 "leader": "Taurox the Brass Bull",
+	 "faction": "Slaughterhorn Tribe",
+	 "svictory": {},
+	 "lvictory": {"destroy": "Reikland", "destroy": "Couronne", "destroy": "Averland", "destroy": "Hochland", "destroy": "Middenland", "destroy": "Nordland", "destroy": "Ostland", "destroy": "Ostermark", "destroy": "Stirland", "destroy": "Talabecland", "destroy": "Wissenland", "razecontrol": "The Oak of Ages"}
+    },
+	{
+	 "leader": "Louen Leoncoeur",
+	 "faction": "Couronne",
+	 "svictory": {"destroy": "Mousillon"},
+	 "lvictory": {}
+	},
+	{
+	 "leader": "Alberic de Bordeleaux",
+	 "faction": "Bordeleaux Errant",
+	 "svictory": {},
+	 "lvictory": {}
+	},
+	{
+	 "leader": "The Fay Enchantress",
+	 "faction": "Carcassone",
+	 "svictory": {},
+	 "lvictory": {}
+	},
+	{
+	 "leader": "Repanse de Lyonesse",
+	 "faction": "Chevaliers de Lyonesse",
+	 "svictory": {"destroy": "The Drakenhof Conclave", "destroy": "Followers of Nagash"},
+	 "lvictory": {}
+	},
+	{
+	 "leader": "Daniel",
+	 "faction": "Legion of Chaos",
+	 "svictory": {},
+	 "lvictory": {"destroy": "Warhost of the Apocalypse", "destroy": "Heralds of the Tempest", "destroy": "The Decadent Host", "destroy": "The Ecstatic Legions", "destroy": "Legion of the Gorequeen"}
+	},
+	{
+	 "leader": "Malekith",
+	 "faction": "Naggarond",
+	 "svictory": {"destroy": "Eataine", "control": "Lothern"},
+	 "lvictory": {"destroy": "Eataine", "destroy": "Avelorn", "destroy": "Nagarythe", "destroy": "Order of Loremasters", "destroy": "Yvresse", "destroy": "Knights of Caledor", "control": "Shrine of Khaine", "control": "Eataine"}
+	},
+	{
       "leader": "Kairos Fateweaver",
       "faction": "Oracles of Tzeentch",
       "svictory": {"destroy": "Zlatlan", "destroy": "Order of Loremasters", "destroy": "Last Defenders", "destroy": "Fortress of Dawn"},
